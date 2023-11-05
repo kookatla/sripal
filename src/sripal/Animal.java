@@ -19,7 +19,7 @@ class Puppydog extends Dog{
 public void color(){
 
 //super.color();
-System.out.println("Brown");
+System.out.println("black");
 
 }
 
