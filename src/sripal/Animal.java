@@ -8,7 +8,7 @@ class Dog{
 
 public void color(){
 
-System.out.println("red");
+System.out.println("black and white");
 
 }
 }
